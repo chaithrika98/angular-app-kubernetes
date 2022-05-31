@@ -14,7 +14,7 @@ spec:
     spec: 
       containers: 
       - name: angular 
-        image: buntu98/angulardevapp:6
+        image: buntu98/k8smarch2021:37
         ports: 
         - containerPort: 80 
 --- 
